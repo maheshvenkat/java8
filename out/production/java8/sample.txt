@@ -1,0 +1,5 @@
+# Settings.xml start
+#<pom changes 1>
+#<pom changes 2>
+
+# Setting.xml end
